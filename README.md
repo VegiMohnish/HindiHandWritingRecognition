@@ -5,4 +5,3 @@ You can install Conda for python which resolves all the dependencies for machine
 
 I have used convolutional neural networks. I am using Tensorflow as the framework and Keras API for providing a high level of abstraction.
 
-/home/mohnish/Downloads/Hindi.gif
