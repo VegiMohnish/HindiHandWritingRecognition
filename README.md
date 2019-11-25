@@ -11,3 +11,8 @@ I have used convolutional neural networks. I am using Tensorflow as the framewor
 1. Dataset- DHCD (Devnagari Character Dataset)
 2. Images of size 32 X 32
 3. Convolutional Network Support added.
+
+# Demo
+![taamatar](https://user-images.githubusercontent.com/47086699/69544584-0b85bd00-0fb6-11ea-8cc2-6dee0f60594a.png)
+![ka](https://user-images.githubusercontent.com/47086699/69544858-9bc40200-0fb6-11ea-9c33-b6f31f91518c.png)
+![ba](https://user-images.githubusercontent.com/47086699/69545009-e9406f00-0fb6-11ea-899c-db5715a7d610.png)
